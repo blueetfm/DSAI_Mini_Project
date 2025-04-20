@@ -8,7 +8,6 @@ Our mini project focuses on the Melbourne housing situation, and is inspired by 
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
-- [Problem Definition](#problem-definition)
 - [Methodology](#methodology)
   - [Techniques Used](#techniques-used)
   - [Preprocessing](#preprocessing)
@@ -35,6 +34,9 @@ This project aims to deliver actionable insights into the real estate market by 
 
 In addition, the project includes our own problem definition, extensive data preparation and cleaning, exploratory data analysis, multiple machine learning analyses, and final recommendations based on data-driven insights.
 
+**Our Objective:**  
+*Develop actionable insights on the real estate market by identifying key drivers of housing prices, uncovering emerging high‑value areas, and pinpointing the most competitive suburbs. This analysis will guide both strategic investment decisions and market forecasting.*
+
 
 ---
 ## Project Structure
@@ -42,13 +44,6 @@ In addition, the project includes our own problem definition, extensive data pre
 2. Preparation of Variables
 3. Core Analysis and Respective Improvements
 4. Conclusion
-
----
-
-## Problem Definition
-
-**Our Objective:**  
-*Develop actionable insights on the real estate market by identifying key drivers of housing prices, uncovering emerging high‑value areas, and pinpointing the most competitive suburbs. This analysis will guide both strategic investment decisions and market forecasting.*
 
 ---
 
